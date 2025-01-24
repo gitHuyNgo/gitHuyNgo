@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Huy:
 👨🏼‍🎓 Studies **Computer Science** at the **VNU-HCM University of Information Technology, Vietnam**<br>
 
 
