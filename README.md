@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Huy:
-👨🏼‍🎓 Studies **Computer Science** at the **VNU-HCM University of Information Technology, Vietnam**<br>
+👨🏻‍🎓 Studies **Computer Science** at the **VNU-HCM University of Information Technology, Vietnam**<br>
 <!-- 📄 My curriculum vitae: [Click here](youtube.com) -->
 
 ## 🌐 Socials:
