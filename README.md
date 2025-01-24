@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏼‍🎓 Studies Computer Science at the VNU-HCM University of Information Technology, Vietnam<br>
+👨🏼‍🎓 Studies **Computer Science** at the **VNU-HCM University of Information Technology, Vietnam**<br>
 
 
 ## 🌐 Socials:
