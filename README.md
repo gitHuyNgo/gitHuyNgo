@@ -10,4 +10,4 @@ My name is **Huy**, a CS student at **VNU-HCM University of Information Technolo
 ### Tools & Tech
 - **Languages:** Python, C++, SQL
 - **Tools:** Linux, Docker
-- **Libraries:** PyTorch, NumPy, Pandas
+- **Libraries:** PyTorch, scikit-learn
